@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab4MemoPadDCP</string>
+
+    <string name="addButtonText">Add Memo</string>
+    <string name="deleteButtonText">Delete Memo</string>
+    <string name="newMemoText">New Memo:</string>
+
+
+
+</resources>
