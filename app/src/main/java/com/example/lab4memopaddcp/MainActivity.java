@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity implements AbstractView{
             if (adapter != null) {
                 Memo memo = adapter.getMemo(position);
                 int id = memo.getId();
-                Toast.makeText(v.getContext(), String.valueOf(id), Toast.LENGTH_SHORT).show();
+                //Toast.makeText(v.getContext(), String.valueOf(id), Toast.LENGTH_SHORT).show();
                 selectedMemo = id;
             }
         }
